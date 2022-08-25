@@ -1,0 +1,6 @@
+2022-06-22 19:57:50: empty string!!!2022-06-22 19:58:04: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\informacion\SIGNATURADATA3000SAS camilo\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\informacion\SIGNATURADATA3000SAS camilo\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\informacion\SIGNATURADATA3000SAS camilo\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
