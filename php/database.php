@@ -1,5 +1,5 @@
 <?php
-$mysqli = mysqli_connect("localhost","admin","admin","loginsigsoft");
+$mysqli = mysqli_connect("localhost","root","","loginsigsoft");
 
 if ($mysqli->connect_errno) {
 	echo "fallo la conexion: (".$mysqli->connect_errno.")". $mysqli->connect_errno;
@@ -7,8 +7,8 @@ if ($mysqli->connect_errno) {
 /*conexion a la base de datos hades*/
 $mysql = new mysqli(
 	"localhost",
-	"admin",
-	"admin",
+	"root",
+	"",
 	"hades"
 );
 $mysql->set_charset("utf8");

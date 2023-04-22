@@ -16,7 +16,10 @@ if (isset($_SESSION['user'])) {//verificamos si la variable del usuario esta est
 	<link rel="stylesheet" type="text/css" href="css/TIC.css">
   <link rel="stylesheet" type="text/css" href="css/personas.css">
   <link rel="shortcut icon" href="../media/logos/ICONODATA.png" />
-  <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  
+  <!-- <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous"> -->
   <!--font awesome-->
   <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>   
 	
@@ -232,7 +235,7 @@ if (isset($_SESSION['user'])) {//verificamos si la variable del usuario esta est
                       </div>
                     </div>
                     <div>
-                      <img src="assets/andres.jpg" alt="">
+                      <!-- <img src="assets/andres.jpg" alt=""> -->
                     </div>
                 </div>
               <div class="modal-footer">
@@ -284,7 +287,7 @@ if (isset($_SESSION['user'])) {//verificamos si la variable del usuario esta est
                       </div>
                     </div>
                     <div>
-                      <img src="assets/mateo.jpg" alt="">
+                      <img src="assets/teo.jpg" alt="">
                     </div>
                 </div>
               <div class="modal-footer">
